@@ -1,6 +1,6 @@
 /*
-*   Author: beshleyua
-*   Author URL: http://themeforest.net/user/beshleyua
+*   Author: udit singh
+*   Author URL: http://themeforest.net/user/udit singh
 */
 
 
